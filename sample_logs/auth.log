@@ -1,6 +1,6 @@
-May 10 08:12:01 serwer sshd[1021]: Accepted password for cbzc from 10.0.0.5 port 51234 ssh2
-May 10 08:15:44 serwer sshd[1022]: Accepted publickey for cbzc from 10.0.0.5 port 51240 ssh2
-May 10 09:02:17 serwer sudo: cbzc : TTY=pts/0 ; PWD=/home/cbzc ; USER=root ; COMMAND=/bin/systemctl status apache2
+May 10 08:12:01 serwer sshd[1021]: Accepted password for deploy from 10.0.0.5 port 51234 ssh2
+May 10 08:15:44 serwer sshd[1022]: Accepted publickey for deploy from 10.0.0.5 port 51240 ssh2
+May 10 09:02:17 serwer sudo: deploy : TTY=pts/0 ; PWD=/home/deploy ; USER=root ; COMMAND=/bin/systemctl status apache2
 May 10 14:32:01 serwer sshd[2001]: Failed password for root from 192.168.1.50 port 41001 ssh2
 May 10 14:32:03 serwer sshd[2002]: Failed password for root from 192.168.1.50 port 41002 ssh2
 May 10 14:32:05 serwer sshd[2003]: Failed password for admin from 192.168.1.50 port 41003 ssh2
