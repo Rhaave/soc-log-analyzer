@@ -1,0 +1,22 @@
+May 10 08:12:01 serwer sshd[1021]: Accepted password for cbzc from 10.0.0.5 port 51234 ssh2
+May 10 08:15:44 serwer sshd[1022]: Accepted publickey for cbzc from 10.0.0.5 port 51240 ssh2
+May 10 09:02:17 serwer sudo: cbzc : TTY=pts/0 ; PWD=/home/cbzc ; USER=root ; COMMAND=/bin/systemctl status apache2
+May 10 14:32:01 serwer sshd[2001]: Failed password for root from 192.168.1.50 port 41001 ssh2
+May 10 14:32:03 serwer sshd[2002]: Failed password for root from 192.168.1.50 port 41002 ssh2
+May 10 14:32:05 serwer sshd[2003]: Failed password for admin from 192.168.1.50 port 41003 ssh2
+May 10 14:32:07 serwer sshd[2004]: Failed password for root from 192.168.1.50 port 41004 ssh2
+May 10 14:32:09 serwer sshd[2005]: Failed password for admin from 192.168.1.50 port 41005 ssh2
+May 10 14:32:11 serwer sshd[2006]: Failed password for root from 192.168.1.50 port 41006 ssh2
+May 10 14:32:13 serwer sshd[2007]: Failed password for test from 192.168.1.50 port 41007 ssh2
+May 10 14:32:15 serwer sshd[2008]: Failed password for root from 192.168.1.50 port 41008 ssh2
+May 10 14:32:17 serwer sshd[2009]: Failed password for root from 192.168.1.50 port 41009 ssh2
+May 10 14:32:19 serwer sshd[2010]: Failed password for admin from 192.168.1.50 port 41010 ssh2
+May 10 14:32:21 serwer sshd[2011]: Failed password for root from 192.168.1.50 port 41011 ssh2
+May 10 14:32:23 serwer sshd[2012]: Failed password for root from 192.168.1.50 port 41012 ssh2
+May 10 14:32:25 serwer sshd[2013]: Accepted password for root from 192.168.1.50 port 41013 ssh2
+May 10 14:33:01 serwer sudo: root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/bin/rm -rf /var/log/auth.log.1
+May 10 16:00:12 serwer sshd[3001]: Failed password for jan from 10.0.0.9 port 33001 ssh2
+May 10 16:00:45 serwer sshd[3002]: Accepted password for jan from 10.0.0.9 port 33002 ssh2
+May 10 18:22:10 serwer sshd[4001]: Failed password for postgres from 91.108.4.15 port 22001 ssh2
+May 10 18:22:12 serwer sshd[4002]: Failed password for postgres from 91.108.4.15 port 22002 ssh2
+May 10 18:22:14 serwer sshd[4003]: Failed password for oracle from 91.108.4.15 port 22003 ssh2
