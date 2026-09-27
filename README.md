@@ -29,7 +29,7 @@ Projekt nie wymaga zewnętrznych bibliotek — korzysta wyłącznie
 z biblioteki standardowej Pythona 3.
 
 ```bash
-git clone https://github.com/TWOJ-LOGIN/soc-log-analyzer.git
+git clone https://github.com/Rhaave./soc-log-analyzer.git
 cd soc-log-analyzer
 python3 log_analyzer.py
 ```
