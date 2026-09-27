@@ -1,0 +1,2 @@
+# Ten projekt korzysta wylacznie z biblioteki standardowej Pythona 3.
+# Brak zewnetrznych zaleznosci do zainstalowania.
